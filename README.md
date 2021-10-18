@@ -24,7 +24,7 @@ The aim is to perform Matrix Factorization using Gradient Descent.
     1. Unzip the file name 'Shonit_assignment1.zip'
     2. Open the file name 'MF.py'
     3. run the command 'python MF.py' in the terminal
-    4. If you wish to change input values to the function, just change 'input1.csv' to any other file you would like. Just make sure the csv file is in the same directory as the pytohn file.
+    4. If you wish to change input values to the function, just change 'input1.csv' to any other file you would like. Just make sure the csv file is in the same directory as the python file.
  
 > Output:
  1) Input Matrix
